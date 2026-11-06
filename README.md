@@ -8,6 +8,6 @@ Data Engineer at isolutions and computational physicist, based in Santander, Spa
 - CFD with OpenFOAM for coastal engineering at IH Cantabria
 
 
-Python · SQL · C++ · PyTorch · GEANT4 · OpenFOAM · Azure
+Python · C++ · SQL · PyTorch · GEANT4 · OpenFOAM · Azure
 
 [LinkedIn](https://www.linkedin.com/in/eloy-huidobro)
